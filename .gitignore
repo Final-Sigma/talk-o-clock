@@ -8,6 +8,7 @@ start_server
 *.local.cr
 .env
 /tmp/public/js
+/tmp/console
 /public/css
 /public/mix-manifest.json
 /node_modules
